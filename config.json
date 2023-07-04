@@ -1,9 +1,9 @@
 {
-  "token": "YOUR BOT TOKEN HERE",
+  "token": "MTEyNTg1MzcyNjUzMjQ1MjM5Mg.GKdSof.SJ7G-iZYKvaQ7QQaWcaP9iXUqlIz-1BQNVzvb0",
   "language" : "en",
   "mainURL": "https://evilinsult.com/generate_insult.php?",
   "slaveURL" : "https://slave.evilinsult.com/generate_insult.php?",
 
-  "clientId": "DEVELOPER DISCORD ID",
-  "guildId": "DEV DISCORD SERVER ID"
+  "clientId": "1117782494578741328",
+  "guildId": "1124383624767225906"
 }
